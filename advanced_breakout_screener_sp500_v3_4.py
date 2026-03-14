@@ -2538,13 +2538,6 @@ def build_html(df: pd.DataFrame, spx: dict = None, fgi: dict = None,
   .data-row[onclick]:hover{{background:var(--bg-hover)}}
   .news-arrow{{font-size:10px;color:var(--text-dim);margin-right:4px;display:inline-block;transition:transform .2s}}
 
-  /* Hover detail card (Upgrade 6) */
-  .hover-card{{display:none;position:fixed;z-index:100;background:var(--bg-card-solid);border:1px solid var(--glass-border);
-    border-radius:12px;padding:16px 20px;width:380px;max-width:calc(100vw - 24px);box-shadow:0 12px 48px rgba(0,0,0,0.5);
-    backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);pointer-events:none;
-    font-family:'Space Mono',monospace;font-size:11px}}
-  .hover-card.visible{{display:block;animation:cardIn .2s ease}}
-  @keyframes cardIn{{from{{opacity:0;transform:translateY(8px) scale(0.97)}}to{{opacity:1;transform:translateY(0) scale(1)}}}}
 
   /* Legend – glass */
   .legend-wrap{{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:32px}}
@@ -2628,9 +2621,6 @@ def build_html(df: pd.DataFrame, spx: dict = None, fgi: dict = None,
     table    {{ font-size:12px }}
     th, td   {{ padding:9px 8px !important }}
     .table-wrap {{ max-height:none }}
-
-    /* Hover-Karte: volle Breite unten */
-    .hover-card {{ width:calc(100vw - 20px); left:10px !important; right:10px; top:auto !important; bottom:10px; position:fixed }}
 
     /* Signal-Badge: kleinere Schrift */
     .filters span, thead th {{ font-size:8px }}
@@ -2797,114 +2787,6 @@ function sort(col) {{
   }}
 }}
 
-// ── Upgrade 6: Hover Detail Card (fixed) ──────────────────
-const hoverCard = document.createElement('div');
-hoverCard.className = 'hover-card';
-hoverCard.innerHTML = '<div id="hc-inner"></div>';
-document.body.appendChild(hoverCard);
-
-let hoverTimer = null;
-let activeHoverRow = null;
-
-// Use event delegation on tbody for reliable enter/leave
-const tbody_el = document.getElementById('tbody');
-if (tbody_el) {{
-  tbody_el.addEventListener('mouseover', e => {{
-    const row = e.target.closest('.data-row');
-    if (!row || row === activeHoverRow) return;
-    // If row has news toggle (onclick attr), still show hover card
-    activeHoverRow = row;
-    clearTimeout(hoverTimer);
-    hoverTimer = setTimeout(() => {{
-      if (activeHoverRow !== row) return; // Mouse already left
-      const ticker = row.dataset.ticker || row.cells[0]?.textContent?.trim() || '';
-      const score  = row.dataset.score || '';
-      const price  = row.dataset.price || '';
-      const rsi    = row.dataset.rsi || '';
-      const perf   = row.dataset.perf || '';
-      const vol    = row.dataset.vol || '';
-      const sig    = row.dataset.signal || '';
-      const cat    = row.dataset.category || '';
-      const sparkCell = row.cells[8];
-      const sparkSvg  = sparkCell ? sparkCell.innerHTML : '';
-
-      const sigColor = sig.includes('CROSS') ? 'var(--green)' :
-                       sig.includes('ABOVE') ? 'var(--blue)' : 'var(--red)';
-
-      // News data (optional)
-      const newsRec      = row.dataset.newsRec || '';
-      const newsRecColor = row.dataset.newsRecColor || '';
-      const newsSent     = row.dataset.newsSentiment || '';
-      const newsSentColor= row.dataset.newsSentColor || '';
-      const newsReason   = row.dataset.newsReason || '';
-      const newsCount    = row.dataset.newsCount || '';
-      const newsHeadline = row.dataset.newsHeadline || '';
-
-      let newsHtml = '';
-      if (newsRec) {{
-        const sentDot = newsSent === 'positiv' ? '▲' : newsSent === 'negativ' ? '▼' : '●';
-        newsHtml =
-          `<div style="margin-top:10px;padding-top:10px;border-top:1px solid var(--border)">` +
-          `<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px">` +
-          `<span style="font-size:9px;color:var(--text-dim);letter-spacing:1px;text-transform:uppercase">📰 News · ${{newsCount}} Artikel</span>` +
-          `<div style="display:flex;gap:6px;align-items:center">` +
-          `<span style="font-size:9px;color:${{newsSentColor}};border:1px solid ${{newsSentColor}}44;padding:1px 6px;border-radius:3px;text-transform:uppercase;letter-spacing:0.5px">${{sentDot}} ${{newsSent}}</span>` +
-          `<span style="font-size:10px;font-weight:700;color:${{newsRecColor}};border:1px solid ${{newsRecColor}}66;padding:2px 8px;border-radius:3px;letter-spacing:0.5px">${{newsRec}}</span>` +
-          `</div></div>` +
-          (newsHeadline ? `<div style="font-size:10px;color:var(--text-muted);line-height:1.5;margin-top:4px">„${{newsHeadline}}"</div>` : '') +
-          (newsReason ? `<div style="font-size:9px;color:var(--text-dim);margin-top:4px;line-height:1.4">💡 ${{newsReason}}</div>` : '') +
-          `</div>`;
-      }}
-
-      document.getElementById('hc-inner').innerHTML =
-        `<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px">` +
-        `<span style="font-size:18px;font-weight:900;font-family:'Courier New',monospace;color:var(--text)">${{ticker}}</span>` +
-        `<span style="font-size:22px;font-weight:800;color:${{parseFloat(score)>=60?'var(--green)':parseFloat(score)>=45?'var(--orange)':'var(--red)'}}">${{score}}</span>` +
-        `</div>` +
-        `<div style="margin:8px 0">${{sparkSvg}}</div>` +
-        `<div style="display:grid;grid-template-columns:1fr 1fr;gap:4px 16px;font-size:10px;color:var(--text-muted)">` +
-        `<span>Kurs: <b style="color:var(--text)">$${{price}}</b></span>` +
-        `<span>RSI: <b style="color:var(--text)">${{rsi}}</b></span>` +
-        `<span>30T: <b style="color:${{parseFloat(perf)>=0?'var(--green)':'var(--red)'}}">${{perf?perf+'%':'—'}}</b></span>` +
-        `<span>Vol×: <b style="color:var(--text)">${{vol}}</b></span>` +
-        `</div>` +
-        `<div style="margin-top:8px;padding-top:8px;border-top:1px solid var(--border);font-size:10px">` +
-        `<span style="color:${{sigColor}}">${{sig.replace('_',' ')}}</span>` +
-        ` · <span style="color:var(--text-dim)">${{cat}}</span></div>` +
-        newsHtml;
-
-      // Position: prefer below row, flip above if no space
-      const rect = row.getBoundingClientRect();
-      const cardH = newsRec ? 300 : 200; // taller when news section present
-      let top = rect.bottom + 8;
-      if (top + cardH > window.innerHeight) {{
-        top = rect.top - cardH - 8;
-      }}
-      let left = Math.max(8, Math.min(rect.left, window.innerWidth - 400));
-      hoverCard.style.left = left + 'px';
-      hoverCard.style.top  = top + 'px';
-      hoverCard.classList.add('visible');
-    }}, 400);
-  }});
-
-  tbody_el.addEventListener('mouseleave', () => {{
-    clearTimeout(hoverTimer);
-    activeHoverRow = null;
-    hoverCard.classList.remove('visible');
-  }});
-
-  // Also hide when mouse enters a different row quickly
-  tbody_el.addEventListener('mouseout', e => {{
-    const row = e.target.closest('.data-row');
-    const related = e.relatedTarget?.closest?.('.data-row');
-    if (row && row !== related) {{
-      // Moving to a different row or leaving rows entirely
-      clearTimeout(hoverTimer);
-      hoverCard.classList.remove('visible');
-      if (!related) activeHoverRow = null;
-    }}
-  }});
-}}
 
 // ── Sparkline draw animation fix ──────────────────────────
 // CSS animation needs correct dasharray/offset per line

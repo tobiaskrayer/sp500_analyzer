@@ -21,12 +21,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'
 
       - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-          pip install yfinance pandas numpy
+        run: pip install --no-cache-dir yfinance pandas numpy tqdm requests
 
       - name: Run screener
         run: |
@@ -37,13 +34,12 @@ jobs:
 
       - name: Copy output to docs/
         run: |
+          mkdir -p docs
+          # Disable Jekyll so GitHub Pages serves raw HTML
+          touch docs/.nojekyll
           # The script writes sp500_breakout_dashboard.html — copy to docs/index.html
-          if [ -f sp500_breakout_dashboard.html ]; then
-            cp sp500_breakout_dashboard.html docs/index.html
-          fi
-          # Also copy the CSV if generated
-          if [ -f sp500_breakout_results.csv ]; then
-            cp sp500_breakout_results.csv docs/sp500_breakout_results.csv
+          if [ -f breakout_report.html ]; then
+            cp breakout_report.html docs/index.html
           fi
 
       - name: Commit and push results
