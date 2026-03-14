@@ -1,0 +1,1939 @@
+08:46:56 [INFO] === Screener v5.0 gestartet ===
+08:46:57 [INFO] SPX 20T-Performance: 0.004752597531458998
+08:46:58 [INFO] Ticker geladen: 503, Sektordaten: 503
+08:46:58 [INFO] Download-Start: 503 Ticker, market_open=False, holiday=False
+08:47:05 [DEBUG] APP: Daily-Extraktionsfehler: 'APP'
+08:47:05 [DEBUG] APTV: Daily-Extraktionsfehler: 'APTV'
+08:47:05 [DEBUG] ACGL: Daily-Extraktionsfehler: 'ACGL'
+08:47:05 [DEBUG] ADM: Daily-Extraktionsfehler: 'ADM'
+08:47:05 [DEBUG] ARES: Daily-Extraktionsfehler: 'ARES'
+08:47:05 [DEBUG] ANET: Daily-Extraktionsfehler: 'ANET'
+08:47:05 [DEBUG] AJG: Daily-Extraktionsfehler: 'AJG'
+08:47:05 [DEBUG] AIZ: Daily-Extraktionsfehler: 'AIZ'
+08:47:05 [DEBUG] T: Daily-Extraktionsfehler: 'T'
+08:47:05 [DEBUG] ATO: Daily-Extraktionsfehler: 'ATO'
+08:47:05 [DEBUG] ADSK: Daily-Extraktionsfehler: 'ADSK'
+08:47:05 [DEBUG] ADP: Daily-Extraktionsfehler: 'ADP'
+08:47:05 [DEBUG] AZO: Daily-Extraktionsfehler: 'AZO'
+08:47:05 [DEBUG] AVB: Daily-Extraktionsfehler: 'AVB'
+08:47:05 [DEBUG] AVY: Daily-Extraktionsfehler: 'AVY'
+08:47:05 [DEBUG] AXON: Daily-Extraktionsfehler: 'AXON'
+08:47:05 [DEBUG] BKR: Daily-Extraktionsfehler: 'BKR'
+08:47:05 [DEBUG] BALL: Daily-Extraktionsfehler: 'BALL'
+08:47:05 [DEBUG] BAC: Daily-Extraktionsfehler: 'BAC'
+08:47:05 [DEBUG] BAX: Daily-Extraktionsfehler: 'BAX'
+08:47:05 [DEBUG] BDX: Daily-Extraktionsfehler: 'BDX'
+08:47:05 [DEBUG] BRK-B: Daily-Extraktionsfehler: 'BRK-B'
+08:47:05 [DEBUG] BBY: Daily-Extraktionsfehler: 'BBY'
+08:47:05 [DEBUG] TECH: Daily-Extraktionsfehler: 'TECH'
+08:47:05 [DEBUG] BIIB: Daily-Extraktionsfehler: 'BIIB'
+08:47:05 [DEBUG] BLK: Daily-Extraktionsfehler: 'BLK'
+08:47:05 [DEBUG] BX: Daily-Extraktionsfehler: 'BX'
+08:47:05 [DEBUG] XYZ: Daily-Extraktionsfehler: 'XYZ'
+08:47:05 [DEBUG] BK: Daily-Extraktionsfehler: 'BK'
+08:47:05 [DEBUG] BA: Daily-Extraktionsfehler: 'BA'
+08:47:05 [DEBUG] BKNG: Daily-Extraktionsfehler: 'BKNG'
+08:47:05 [DEBUG] BSX: Daily-Extraktionsfehler: 'BSX'
+08:47:05 [DEBUG] BMY: Daily-Extraktionsfehler: 'BMY'
+08:47:05 [DEBUG] AVGO: Daily-Extraktionsfehler: 'AVGO'
+08:47:05 [DEBUG] BR: Daily-Extraktionsfehler: 'BR'
+08:47:05 [DEBUG] BRO: Daily-Extraktionsfehler: 'BRO'
+08:47:05 [DEBUG] BF-B: Daily-Extraktionsfehler: 'BF-B'
+08:47:05 [DEBUG] BLDR: Daily-Extraktionsfehler: 'BLDR'
+08:47:05 [DEBUG] BG: Daily-Extraktionsfehler: 'BG'
+08:47:05 [DEBUG] MMM: Daily-Extraktionsfehler: 'MMM'
+08:47:05 [DEBUG] AOS: Daily-Extraktionsfehler: 'AOS'
+08:47:05 [DEBUG] ABT: Daily-Extraktionsfehler: 'ABT'
+08:47:05 [DEBUG] ABBV: Daily-Extraktionsfehler: 'ABBV'
+08:47:05 [DEBUG] ACN: Daily-Extraktionsfehler: 'ACN'
+08:47:05 [DEBUG] ADBE: Daily-Extraktionsfehler: 'ADBE'
+08:47:05 [DEBUG] AES: Daily-Extraktionsfehler: 'AES'
+08:47:05 [DEBUG] AFL: Daily-Extraktionsfehler: 'AFL'
+08:47:05 [DEBUG] A: Daily-Extraktionsfehler: 'A'
+08:47:05 [DEBUG] APD: Daily-Extraktionsfehler: 'APD'
+08:47:05 [DEBUG] ABNB: Daily-Extraktionsfehler: 'ABNB'
+08:47:05 [DEBUG] AKAM: Daily-Extraktionsfehler: 'AKAM'
+08:47:05 [DEBUG] ALB: Daily-Extraktionsfehler: 'ALB'
+08:47:05 [DEBUG] ARE: Daily-Extraktionsfehler: 'ARE'
+08:47:05 [DEBUG] ALGN: Daily-Extraktionsfehler: 'ALGN'
+08:47:05 [DEBUG] ALLE: Daily-Extraktionsfehler: 'ALLE'
+08:47:05 [DEBUG] LNT: Daily-Extraktionsfehler: 'LNT'
+08:47:05 [DEBUG] ALL: Daily-Extraktionsfehler: 'ALL'
+08:47:05 [DEBUG] GOOGL: Daily-Extraktionsfehler: 'GOOGL'
+08:47:05 [DEBUG] GOOG: Daily-Extraktionsfehler: 'GOOG'
+08:47:05 [DEBUG] MO: Daily-Extraktionsfehler: 'MO'
+08:47:05 [DEBUG] AMZN: Daily-Extraktionsfehler: 'AMZN'
+08:47:05 [DEBUG] AMCR: Daily-Extraktionsfehler: 'AMCR'
+08:47:05 [DEBUG] AEE: Daily-Extraktionsfehler: 'AEE'
+08:47:05 [DEBUG] AEP: Daily-Extraktionsfehler: 'AEP'
+08:47:05 [DEBUG] AXP: Daily-Extraktionsfehler: 'AXP'
+08:47:05 [DEBUG] AIG: Daily-Extraktionsfehler: 'AIG'
+08:47:05 [DEBUG] AMT: Daily-Extraktionsfehler: 'AMT'
+08:47:05 [DEBUG] AWK: Daily-Extraktionsfehler: 'AWK'
+08:47:05 [DEBUG] AMP: Daily-Extraktionsfehler: 'AMP'
+08:47:05 [DEBUG] AME: Daily-Extraktionsfehler: 'AME'
+08:47:05 [DEBUG] AMGN: Daily-Extraktionsfehler: 'AMGN'
+08:47:05 [DEBUG] APH: Daily-Extraktionsfehler: 'APH'
+08:47:05 [DEBUG] AON: Daily-Extraktionsfehler: 'AON'
+08:47:05 [DEBUG] APA: Daily-Extraktionsfehler: 'APA'
+08:47:05 [DEBUG] APO: Daily-Extraktionsfehler: 'APO'
+08:47:05 [DEBUG] AAPL: Daily-Extraktionsfehler: 'AAPL'
+08:47:05 [DEBUG] AMAT: Daily-Extraktionsfehler: 'AMAT'
+08:47:05 [DEBUG] CHRW: Daily-Extraktionsfehler: 'CHRW'
+08:47:05 [DEBUG] CDNS: Daily-Extraktionsfehler: 'CDNS'
+08:47:05 [DEBUG] CPT: Daily-Extraktionsfehler: 'CPT'
+08:47:05 [DEBUG] CPB: Daily-Extraktionsfehler: 'CPB'
+08:47:05 [DEBUG] COF: Daily-Extraktionsfehler: 'COF'
+08:47:05 [DEBUG] CAH: Daily-Extraktionsfehler: 'CAH'
+08:47:05 [DEBUG] CCL: Daily-Extraktionsfehler: 'CCL'
+08:47:05 [DEBUG] CARR: Daily-Extraktionsfehler: 'CARR'
+08:47:05 [DEBUG] CVNA: Daily-Extraktionsfehler: 'CVNA'
+08:47:05 [DEBUG] CAT: Daily-Extraktionsfehler: 'CAT'
+08:47:05 [DEBUG] CBOE: Daily-Extraktionsfehler: 'CBOE'
+08:47:05 [DEBUG] CBRE: Daily-Extraktionsfehler: 'CBRE'
+08:47:05 [DEBUG] CDW: Daily-Extraktionsfehler: 'CDW'
+08:47:05 [DEBUG] COR: Daily-Extraktionsfehler: 'COR'
+08:47:05 [DEBUG] CNC: Daily-Extraktionsfehler: 'CNC'
+08:47:05 [DEBUG] CNP: Daily-Extraktionsfehler: 'CNP'
+08:47:05 [DEBUG] CF: Daily-Extraktionsfehler: 'CF'
+08:47:05 [DEBUG] CRL: Daily-Extraktionsfehler: 'CRL'
+08:47:05 [DEBUG] SCHW: Daily-Extraktionsfehler: 'SCHW'
+08:47:05 [DEBUG] CHTR: Daily-Extraktionsfehler: 'CHTR'
+08:47:05 [DEBUG] CVX: Daily-Extraktionsfehler: 'CVX'
+08:47:05 [DEBUG] CMG: Daily-Extraktionsfehler: 'CMG'
+08:47:05 [DEBUG] CB: Daily-Extraktionsfehler: 'CB'
+08:47:05 [DEBUG] CHD: Daily-Extraktionsfehler: 'CHD'
+08:47:05 [DEBUG] CIEN: Daily-Extraktionsfehler: 'CIEN'
+08:47:05 [DEBUG] CI: Daily-Extraktionsfehler: 'CI'
+08:47:05 [DEBUG] CINF: Daily-Extraktionsfehler: 'CINF'
+08:47:05 [DEBUG] CTAS: Daily-Extraktionsfehler: 'CTAS'
+08:47:05 [DEBUG] CSCO: Daily-Extraktionsfehler: 'CSCO'
+08:47:05 [DEBUG] CFG: Daily-Extraktionsfehler: 'CFG'
+08:47:05 [DEBUG] CLX: Daily-Extraktionsfehler: 'CLX'
+08:47:05 [DEBUG] CME: Daily-Extraktionsfehler: 'CME'
+08:47:05 [DEBUG] CMS: Daily-Extraktionsfehler: 'CMS'
+08:47:05 [DEBUG] KO: Daily-Extraktionsfehler: 'KO'
+08:47:05 [DEBUG] CTSH: Daily-Extraktionsfehler: 'CTSH'
+08:47:05 [DEBUG] COIN: Daily-Extraktionsfehler: 'COIN'
+08:47:05 [DEBUG] CL: Daily-Extraktionsfehler: 'CL'
+08:47:05 [DEBUG] CMCSA: Daily-Extraktionsfehler: 'CMCSA'
+08:47:05 [DEBUG] FIX: Daily-Extraktionsfehler: 'FIX'
+08:47:11 [DEBUG] FTNT: Daily-Extraktionsfehler: 'FTNT'
+08:47:11 [DEBUG] EA: Daily-Extraktionsfehler: 'EA'
+08:47:11 [DEBUG] EME: Daily-Extraktionsfehler: 'EME'
+08:47:11 [DEBUG] LHX: Daily-Extraktionsfehler: 'LHX'
+08:47:11 [DEBUG] LH: Daily-Extraktionsfehler: 'LH'
+08:47:11 [DEBUG] LRCX: Daily-Extraktionsfehler: 'LRCX'
+08:47:11 [DEBUG] LW: Daily-Extraktionsfehler: 'LW'
+08:47:11 [DEBUG] LVS: Daily-Extraktionsfehler: 'LVS'
+08:47:11 [DEBUG] LDOS: Daily-Extraktionsfehler: 'LDOS'
+08:47:11 [DEBUG] LEN: Daily-Extraktionsfehler: 'LEN'
+08:47:11 [DEBUG] LII: Daily-Extraktionsfehler: 'LII'
+08:47:11 [DEBUG] LIN: Daily-Extraktionsfehler: 'LIN'
+08:47:11 [DEBUG] LYV: Daily-Extraktionsfehler: 'LYV'
+08:47:11 [DEBUG] LMT: Daily-Extraktionsfehler: 'LMT'
+08:47:11 [DEBUG] L: Daily-Extraktionsfehler: 'L'
+08:47:11 [DEBUG] LOW: Daily-Extraktionsfehler: 'LOW'
+08:47:11 [DEBUG] LULU: Daily-Extraktionsfehler: 'LULU'
+08:47:11 [DEBUG] LYB: Daily-Extraktionsfehler: 'LYB'
+08:47:11 [DEBUG] MTB: Daily-Extraktionsfehler: 'MTB'
+08:47:11 [DEBUG] MPC: Daily-Extraktionsfehler: 'MPC'
+08:47:11 [DEBUG] MAR: Daily-Extraktionsfehler: 'MAR'
+08:47:11 [DEBUG] MRSH: Daily-Extraktionsfehler: 'MRSH'
+08:47:11 [DEBUG] MLM: Daily-Extraktionsfehler: 'MLM'
+08:47:11 [DEBUG] MAS: Daily-Extraktionsfehler: 'MAS'
+08:47:11 [DEBUG] MA: Daily-Extraktionsfehler: 'MA'
+08:47:11 [DEBUG] MTCH: Daily-Extraktionsfehler: 'MTCH'
+08:47:11 [DEBUG] MKC: Daily-Extraktionsfehler: 'MKC'
+08:47:11 [DEBUG] MCD: Daily-Extraktionsfehler: 'MCD'
+08:47:11 [DEBUG] MCK: Daily-Extraktionsfehler: 'MCK'
+08:47:11 [DEBUG] MDT: Daily-Extraktionsfehler: 'MDT'
+08:47:11 [DEBUG] MRK: Daily-Extraktionsfehler: 'MRK'
+08:47:11 [DEBUG] META: Daily-Extraktionsfehler: 'META'
+08:47:11 [DEBUG] MTD: Daily-Extraktionsfehler: 'MTD'
+08:47:11 [DEBUG] MGM: Daily-Extraktionsfehler: 'MGM'
+08:47:11 [DEBUG] MCHP: Daily-Extraktionsfehler: 'MCHP'
+08:47:11 [DEBUG] MU: Daily-Extraktionsfehler: 'MU'
+08:47:11 [DEBUG] MSFT: Daily-Extraktionsfehler: 'MSFT'
+08:47:11 [DEBUG] MAA: Daily-Extraktionsfehler: 'MAA'
+08:47:11 [DEBUG] MRNA: Daily-Extraktionsfehler: 'MRNA'
+08:47:11 [DEBUG] MOH: Daily-Extraktionsfehler: 'MOH'
+08:47:17 [DEBUG] NRG: Daily-Extraktionsfehler: 'NRG'
+08:47:17 [DEBUG] NVDA: Daily-Extraktionsfehler: 'NVDA'
+08:47:17 [DEBUG] ODFL: Daily-Extraktionsfehler: 'ODFL'
+08:47:17 [DEBUG] ROP: Daily-Extraktionsfehler: 'ROP'
+08:47:17 [DEBUG] ROST: Daily-Extraktionsfehler: 'ROST'
+08:47:17 [DEBUG] RCL: Daily-Extraktionsfehler: 'RCL'
+08:47:17 [DEBUG] SPGI: Daily-Extraktionsfehler: 'SPGI'
+08:47:17 [DEBUG] CRM: Daily-Extraktionsfehler: 'CRM'
+08:47:17 [DEBUG] SNDK: Daily-Extraktionsfehler: 'SNDK'
+08:47:17 [DEBUG] SBAC: Daily-Extraktionsfehler: 'SBAC'
+08:47:17 [DEBUG] SLB: Daily-Extraktionsfehler: 'SLB'
+08:47:17 [DEBUG] STX: Daily-Extraktionsfehler: 'STX'
+08:47:17 [DEBUG] NOW: Daily-Extraktionsfehler: 'NOW'
+08:47:17 [DEBUG] SHW: Daily-Extraktionsfehler: 'SHW'
+08:47:17 [DEBUG] SPG: Daily-Extraktionsfehler: 'SPG'
+08:47:17 [DEBUG] SWKS: Daily-Extraktionsfehler: 'SWKS'
+08:47:17 [DEBUG] SJM: Daily-Extraktionsfehler: 'SJM'
+08:47:17 [DEBUG] SW: Daily-Extraktionsfehler: 'SW'
+08:47:17 [DEBUG] SNA: Daily-Extraktionsfehler: 'SNA'
+08:47:17 [DEBUG] PH: Daily-Extraktionsfehler: 'PH'
+08:47:17 [DEBUG] SOLV: Daily-Extraktionsfehler: 'SOLV'
+08:47:17 [DEBUG] PAYC: Daily-Extraktionsfehler: 'PAYC'
+08:47:17 [DEBUG] PYPL: Daily-Extraktionsfehler: 'PYPL'
+08:47:17 [DEBUG] PNR: Daily-Extraktionsfehler: 'PNR'
+08:47:17 [DEBUG] PEP: Daily-Extraktionsfehler: 'PEP'
+08:47:17 [DEBUG] PFE: Daily-Extraktionsfehler: 'PFE'
+08:47:17 [DEBUG] PCG: Daily-Extraktionsfehler: 'PCG'
+08:47:17 [DEBUG] PM: Daily-Extraktionsfehler: 'PM'
+08:47:17 [DEBUG] PSX: Daily-Extraktionsfehler: 'PSX'
+08:47:17 [DEBUG] PNW: Daily-Extraktionsfehler: 'PNW'
+08:47:17 [DEBUG] PNC: Daily-Extraktionsfehler: 'PNC'
+08:47:17 [DEBUG] POOL: Daily-Extraktionsfehler: 'POOL'
+08:47:17 [DEBUG] PPG: Daily-Extraktionsfehler: 'PPG'
+08:47:17 [DEBUG] PPL: Daily-Extraktionsfehler: 'PPL'
+08:47:17 [DEBUG] PFG: Daily-Extraktionsfehler: 'PFG'
+08:47:17 [DEBUG] PG: Daily-Extraktionsfehler: 'PG'
+08:47:17 [DEBUG] PGR: Daily-Extraktionsfehler: 'PGR'
+08:47:17 [DEBUG] PLD: Daily-Extraktionsfehler: 'PLD'
+08:47:17 [DEBUG] PRU: Daily-Extraktionsfehler: 'PRU'
+08:47:17 [DEBUG] PEG: Daily-Extraktionsfehler: 'PEG'
+08:47:17 [DEBUG] PTC: Daily-Extraktionsfehler: 'PTC'
+08:47:17 [DEBUG] PSA: Daily-Extraktionsfehler: 'PSA'
+08:47:17 [DEBUG] PHM: Daily-Extraktionsfehler: 'PHM'
+08:47:17 [DEBUG] PWR: Daily-Extraktionsfehler: 'PWR'
+08:47:17 [DEBUG] QCOM: Daily-Extraktionsfehler: 'QCOM'
+08:47:18 [DEBUG] Q: Daily-Extraktionsfehler: 'Q'
+08:47:18 [DEBUG] RL: Daily-Extraktionsfehler: 'RL'
+08:47:18 [DEBUG] RJF: Daily-Extraktionsfehler: 'RJF'
+08:47:18 [DEBUG] RTX: Daily-Extraktionsfehler: 'RTX'
+08:47:18 [DEBUG] REG: Daily-Extraktionsfehler: 'REG'
+08:47:18 [DEBUG] REGN: Daily-Extraktionsfehler: 'REGN'
+08:47:18 [DEBUG] RF: Daily-Extraktionsfehler: 'RF'
+08:47:18 [DEBUG] RSG: Daily-Extraktionsfehler: 'RSG'
+08:47:18 [DEBUG] RMD: Daily-Extraktionsfehler: 'RMD'
+08:47:18 [DEBUG] RVTY: Daily-Extraktionsfehler: 'RVTY'
+08:47:17 [DEBUG] SO: Daily-Extraktionsfehler: 'SO'
+08:47:18 [DEBUG] HOOD: Daily-Extraktionsfehler: 'HOOD'
+08:47:18 [DEBUG] LUV: Daily-Extraktionsfehler: 'LUV'
+08:47:18 [DEBUG] TSLA: Daily-Extraktionsfehler: 'TSLA'
+08:47:18 [DEBUG] ROK: Daily-Extraktionsfehler: 'ROK'
+08:47:18 [DEBUG] SWK: Daily-Extraktionsfehler: 'SWK'
+08:47:18 [DEBUG] TXN: Daily-Extraktionsfehler: 'TXN'
+08:47:18 [DEBUG] TPL: Daily-Extraktionsfehler: 'TPL'
+08:47:18 [DEBUG] TXT: Daily-Extraktionsfehler: 'TXT'
+08:47:18 [DEBUG] TMO: Daily-Extraktionsfehler: 'TMO'
+08:47:18 [DEBUG] TKO: Daily-Extraktionsfehler: 'TKO'
+08:47:18 [DEBUG] TTD: Daily-Extraktionsfehler: 'TTD'
+08:47:18 [DEBUG] TSCO: Daily-Extraktionsfehler: 'TSCO'
+08:47:18 [DEBUG] TT: Daily-Extraktionsfehler: 'TT'
+08:47:18 [DEBUG] TDG: Daily-Extraktionsfehler: 'TDG'
+08:47:18 [DEBUG] TRV: Daily-Extraktionsfehler: 'TRV'
+08:47:18 [DEBUG] SBUX: Daily-Extraktionsfehler: 'SBUX'
+08:47:18 [DEBUG] STT: Daily-Extraktionsfehler: 'STT'
+08:47:18 [DEBUG] STLD: Daily-Extraktionsfehler: 'STLD'
+08:47:18 [DEBUG] STE: Daily-Extraktionsfehler: 'STE'
+08:47:18 [DEBUG] SYK: Daily-Extraktionsfehler: 'SYK'
+08:47:18 [DEBUG] SMCI: Daily-Extraktionsfehler: 'SMCI'
+08:47:18 [DEBUG] SYF: Daily-Extraktionsfehler: 'SYF'
+08:47:18 [DEBUG] SNPS: Daily-Extraktionsfehler: 'SNPS'
+08:47:18 [DEBUG] SYY: Daily-Extraktionsfehler: 'SYY'
+08:47:18 [DEBUG] TMUS: Daily-Extraktionsfehler: 'TMUS'
+08:47:18 [DEBUG] TROW: Daily-Extraktionsfehler: 'TROW'
+08:47:18 [DEBUG] TPR: Daily-Extraktionsfehler: 'TPR'
+08:47:18 [DEBUG] TFC: Daily-Extraktionsfehler: 'TFC'
+08:47:18 [DEBUG] TYL: Daily-Extraktionsfehler: 'TYL'
+08:47:18 [DEBUG] TSN: Daily-Extraktionsfehler: 'TSN'
+08:47:18 [DEBUG] USB: Daily-Extraktionsfehler: 'USB'
+08:47:18 [DEBUG] UBER: Daily-Extraktionsfehler: 'UBER'
+08:47:18 [DEBUG] UDR: Daily-Extraktionsfehler: 'UDR'
+08:47:18 [DEBUG] ULTA: Daily-Extraktionsfehler: 'ULTA'
+08:47:18 [DEBUG] UAL: Daily-Extraktionsfehler: 'UAL'
+08:47:18 [DEBUG] TRGP: Daily-Extraktionsfehler: 'TRGP'
+08:47:18 [DEBUG] TGT: Daily-Extraktionsfehler: 'TGT'
+08:47:18 [DEBUG] TEL: Daily-Extraktionsfehler: 'TEL'
+08:47:18 [DEBUG] TDY: Daily-Extraktionsfehler: 'TDY'
+08:47:18 [DEBUG] TER: Daily-Extraktionsfehler: 'TER'
+08:47:18 [DEBUG] UPS: Daily-Extraktionsfehler: 'UPS'
+08:47:18 [DEBUG] URI: Daily-Extraktionsfehler: 'URI'
+08:47:18 [DEBUG] UNH: Daily-Extraktionsfehler: 'UNH'
+08:47:18 [DEBUG] UHS: Daily-Extraktionsfehler: 'UHS'
+08:47:18 [DEBUG] VLO: Daily-Extraktionsfehler: 'VLO'
+08:47:18 [DEBUG] VTR: Daily-Extraktionsfehler: 'VTR'
+08:47:18 [DEBUG] VLTO: Daily-Extraktionsfehler: 'VLTO'
+08:47:18 [DEBUG] VRSN: Daily-Extraktionsfehler: 'VRSN'
+08:47:18 [DEBUG] VRSK: Daily-Extraktionsfehler: 'VRSK'
+08:47:18 [DEBUG] VZ: Daily-Extraktionsfehler: 'VZ'
+08:47:18 [DEBUG] VTRS: Daily-Extraktionsfehler: 'VTRS'
+08:47:18 [DEBUG] VICI: Daily-Extraktionsfehler: 'VICI'
+08:47:18 [DEBUG] V: Daily-Extraktionsfehler: 'V'
+08:47:18 [DEBUG] VST: Daily-Extraktionsfehler: 'VST'
+08:47:18 [DEBUG] VMC: Daily-Extraktionsfehler: 'VMC'
+08:47:18 [DEBUG] WRB: Daily-Extraktionsfehler: 'WRB'
+08:47:18 [DEBUG] GWW: Daily-Extraktionsfehler: 'GWW'
+08:47:21 [INFO] Daily geladen: 234
+08:47:26 [DEBUG] AMD: Intraday-Extraktionsfehler: 'AMD'
+08:47:26 [DEBUG] ADI: Intraday-Extraktionsfehler: 'ADI'
+08:47:26 [DEBUG] C: Intraday-Extraktionsfehler: 'C'
+08:47:26 [DEBUG] HUBB: Intraday-Extraktionsfehler: 'HUBB'
+08:47:26 [DEBUG] HUM: Intraday-Extraktionsfehler: 'HUM'
+08:47:26 [DEBUG] HBAN: Intraday-Extraktionsfehler: 'HBAN'
+08:47:26 [DEBUG] HII: Intraday-Extraktionsfehler: 'HII'
+08:47:26 [DEBUG] IBM: Intraday-Extraktionsfehler: 'IBM'
+08:47:26 [DEBUG] IEX: Intraday-Extraktionsfehler: 'IEX'
+08:47:26 [DEBUG] IDXX: Intraday-Extraktionsfehler: 'IDXX'
+08:47:26 [DEBUG] ITW: Intraday-Extraktionsfehler: 'ITW'
+08:47:26 [DEBUG] INCY: Intraday-Extraktionsfehler: 'INCY'
+08:47:26 [DEBUG] IR: Intraday-Extraktionsfehler: 'IR'
+08:47:26 [DEBUG] PODD: Intraday-Extraktionsfehler: 'PODD'
+08:47:26 [DEBUG] INTC: Intraday-Extraktionsfehler: 'INTC'
+08:47:26 [DEBUG] IBKR: Intraday-Extraktionsfehler: 'IBKR'
+08:47:26 [DEBUG] ICE: Intraday-Extraktionsfehler: 'ICE'
+08:47:26 [DEBUG] IFF: Intraday-Extraktionsfehler: 'IFF'
+08:47:26 [DEBUG] IP: Intraday-Extraktionsfehler: 'IP'
+08:47:26 [DEBUG] INTU: Intraday-Extraktionsfehler: 'INTU'
+08:47:26 [DEBUG] ISRG: Intraday-Extraktionsfehler: 'ISRG'
+08:47:26 [DEBUG] IVZ: Intraday-Extraktionsfehler: 'IVZ'
+08:47:26 [DEBUG] INVH: Intraday-Extraktionsfehler: 'INVH'
+08:47:26 [DEBUG] IQV: Intraday-Extraktionsfehler: 'IQV'
+08:47:26 [DEBUG] IRM: Intraday-Extraktionsfehler: 'IRM'
+08:47:26 [DEBUG] JBHT: Intraday-Extraktionsfehler: 'JBHT'
+08:47:26 [DEBUG] JBL: Intraday-Extraktionsfehler: 'JBL'
+08:47:26 [DEBUG] JKHY: Intraday-Extraktionsfehler: 'JKHY'
+08:47:26 [DEBUG] J: Intraday-Extraktionsfehler: 'J'
+08:47:26 [DEBUG] JNJ: Intraday-Extraktionsfehler: 'JNJ'
+08:47:26 [DEBUG] JCI: Intraday-Extraktionsfehler: 'JCI'
+08:47:26 [DEBUG] JPM: Intraday-Extraktionsfehler: 'JPM'
+08:47:26 [DEBUG] KVUE: Intraday-Extraktionsfehler: 'KVUE'
+08:47:26 [DEBUG] KDP: Intraday-Extraktionsfehler: 'KDP'
+08:47:26 [DEBUG] KEY: Intraday-Extraktionsfehler: 'KEY'
+08:47:26 [DEBUG] KEYS: Intraday-Extraktionsfehler: 'KEYS'
+08:47:26 [DEBUG] KMB: Intraday-Extraktionsfehler: 'KMB'
+08:47:26 [DEBUG] KIM: Intraday-Extraktionsfehler: 'KIM'
+08:47:26 [DEBUG] KMI: Intraday-Extraktionsfehler: 'KMI'
+08:47:27 [DEBUG] CAG: Intraday-Extraktionsfehler: 'CAG'
+08:47:27 [DEBUG] ED: Intraday-Extraktionsfehler: 'ED'
+08:47:27 [DEBUG] CEG: Intraday-Extraktionsfehler: 'CEG'
+08:47:27 [DEBUG] COO: Intraday-Extraktionsfehler: 'COO'
+08:47:27 [DEBUG] CPRT: Intraday-Extraktionsfehler: 'CPRT'
+08:47:27 [DEBUG] GLW: Intraday-Extraktionsfehler: 'GLW'
+08:47:27 [DEBUG] CPAY: Intraday-Extraktionsfehler: 'CPAY'
+08:47:27 [DEBUG] CTVA: Intraday-Extraktionsfehler: 'CTVA'
+08:47:27 [DEBUG] CSGP: Intraday-Extraktionsfehler: 'CSGP'
+08:47:27 [DEBUG] COST: Intraday-Extraktionsfehler: 'COST'
+08:47:27 [DEBUG] CTRA: Intraday-Extraktionsfehler: 'CTRA'
+08:47:27 [DEBUG] CRH: Intraday-Extraktionsfehler: 'CRH'
+08:47:27 [DEBUG] CRWD: Intraday-Extraktionsfehler: 'CRWD'
+08:47:27 [DEBUG] CCI: Intraday-Extraktionsfehler: 'CCI'
+08:47:27 [DEBUG] CSX: Intraday-Extraktionsfehler: 'CSX'
+08:47:27 [DEBUG] CVS: Intraday-Extraktionsfehler: 'CVS'
+08:47:27 [DEBUG] DHR: Intraday-Extraktionsfehler: 'DHR'
+08:47:27 [DEBUG] DRI: Intraday-Extraktionsfehler: 'DRI'
+08:47:27 [DEBUG] DDOG: Intraday-Extraktionsfehler: 'DDOG'
+08:47:27 [DEBUG] DVA: Intraday-Extraktionsfehler: 'DVA'
+08:47:27 [DEBUG] DECK: Intraday-Extraktionsfehler: 'DECK'
+08:47:27 [DEBUG] DELL: Intraday-Extraktionsfehler: 'DELL'
+08:47:27 [DEBUG] DAL: Intraday-Extraktionsfehler: 'DAL'
+08:47:27 [DEBUG] DVN: Intraday-Extraktionsfehler: 'DVN'
+08:47:27 [DEBUG] DXCM: Intraday-Extraktionsfehler: 'DXCM'
+08:47:27 [DEBUG] FANG: Intraday-Extraktionsfehler: 'FANG'
+08:47:27 [DEBUG] DG: Intraday-Extraktionsfehler: 'DG'
+08:47:27 [DEBUG] DLTR: Intraday-Extraktionsfehler: 'DLTR'
+08:47:27 [DEBUG] D: Intraday-Extraktionsfehler: 'D'
+08:47:27 [DEBUG] DPZ: Intraday-Extraktionsfehler: 'DPZ'
+08:47:27 [DEBUG] DASH: Intraday-Extraktionsfehler: 'DASH'
+08:47:27 [DEBUG] DOV: Intraday-Extraktionsfehler: 'DOV'
+08:47:27 [DEBUG] DOW: Intraday-Extraktionsfehler: 'DOW'
+08:47:27 [DEBUG] DHI: Intraday-Extraktionsfehler: 'DHI'
+08:47:27 [DEBUG] DTE: Intraday-Extraktionsfehler: 'DTE'
+08:47:37 [DEBUG] KKR: Intraday-Extraktionsfehler: 'KKR'
+08:47:37 [DEBUG] KLAC: Intraday-Extraktionsfehler: 'KLAC'
+08:47:37 [DEBUG] KHC: Intraday-Extraktionsfehler: 'KHC'
+08:47:37 [DEBUG] KR: Intraday-Extraktionsfehler: 'KR'
+08:47:37 [DEBUG] DUK: Intraday-Extraktionsfehler: 'DUK'
+08:47:37 [DEBUG] DD: Intraday-Extraktionsfehler: 'DD'
+08:47:37 [DEBUG] ETN: Intraday-Extraktionsfehler: 'ETN'
+08:47:37 [DEBUG] EBAY: Intraday-Extraktionsfehler: 'EBAY'
+08:47:37 [DEBUG] ECL: Intraday-Extraktionsfehler: 'ECL'
+08:47:37 [DEBUG] EIX: Intraday-Extraktionsfehler: 'EIX'
+08:47:37 [DEBUG] EW: Intraday-Extraktionsfehler: 'EW'
+08:47:37 [DEBUG] ELV: Intraday-Extraktionsfehler: 'ELV'
+08:47:37 [DEBUG] EMR: Intraday-Extraktionsfehler: 'EMR'
+08:47:37 [DEBUG] ETR: Intraday-Extraktionsfehler: 'ETR'
+08:47:37 [DEBUG] EOG: Intraday-Extraktionsfehler: 'EOG'
+08:47:37 [DEBUG] EPAM: Intraday-Extraktionsfehler: 'EPAM'
+08:47:37 [DEBUG] EQT: Intraday-Extraktionsfehler: 'EQT'
+08:47:37 [DEBUG] EFX: Intraday-Extraktionsfehler: 'EFX'
+08:47:37 [DEBUG] EQIX: Intraday-Extraktionsfehler: 'EQIX'
+08:47:37 [DEBUG] ERIE: Intraday-Extraktionsfehler: 'ERIE'
+08:47:37 [DEBUG] ESS: Intraday-Extraktionsfehler: 'ESS'
+08:47:37 [DEBUG] EL: Intraday-Extraktionsfehler: 'EL'
+08:47:37 [DEBUG] EG: Intraday-Extraktionsfehler: 'EG'
+08:47:37 [DEBUG] EVRG: Intraday-Extraktionsfehler: 'EVRG'
+08:47:37 [DEBUG] ES: Intraday-Extraktionsfehler: 'ES'
+08:47:37 [DEBUG] EXC: Intraday-Extraktionsfehler: 'EXC'
+08:47:37 [DEBUG] EXE: Intraday-Extraktionsfehler: 'EXE'
+08:47:37 [DEBUG] EXPE: Intraday-Extraktionsfehler: 'EXPE'
+08:47:37 [DEBUG] EXPD: Intraday-Extraktionsfehler: 'EXPD'
+08:47:37 [DEBUG] EXR: Intraday-Extraktionsfehler: 'EXR'
+08:47:37 [DEBUG] XOM: Intraday-Extraktionsfehler: 'XOM'
+08:47:37 [DEBUG] FFIV: Intraday-Extraktionsfehler: 'FFIV'
+08:47:37 [DEBUG] FDS: Intraday-Extraktionsfehler: 'FDS'
+08:47:37 [DEBUG] FICO: Intraday-Extraktionsfehler: 'FICO'
+08:47:37 [DEBUG] FAST: Intraday-Extraktionsfehler: 'FAST'
+08:47:37 [DEBUG] FRT: Intraday-Extraktionsfehler: 'FRT'
+08:47:37 [DEBUG] FIS: Intraday-Extraktionsfehler: 'FIS'
+08:47:37 [DEBUG] FITB: Intraday-Extraktionsfehler: 'FITB'
+08:47:37 [INFO] Intraday geladen: 121
+08:47:37 [INFO] Merge abgeschlossen: 234 Ticker, 121 Intraday-Merged
+08:47:37 [INFO] Analyse-Start: 234 Ticker
+08:47:37 [DEBUG] CAG: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] COP: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] ED: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] STZ: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] COO: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CEG: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CPRT: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CTVA: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] GLW: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CSGP: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] COST: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CPAY: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CTRA: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] STZ: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] CRH: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CRWD: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CCI: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CSX: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CEG: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] CMI: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CVS: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DHR: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DRI: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CAG: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] DDOG: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DVA: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DECK: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DE: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] COO: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] DELL: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DAL: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DVN: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DXCM: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CPRT: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] FANG: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DLR: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DG: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DLTR: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] COP: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] D: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DPZ: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DASH: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DOV: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] GLW: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] DOW: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DHI: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DTE: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] BXP: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CTVA: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] AMD: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] ADI: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] C: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] HUBB: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] ED: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] HUM: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] HBAN: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] HII: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] IBM: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CSGP: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] IEX: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] IDXX: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] ITW: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] INCY: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] COST: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] IR: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] PODD: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] INTC: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] IBKR: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CPAY: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] ICE: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] IFF: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] IP: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] INTU: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CTRA: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] ISRG: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] IVZ: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] INVH: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] IQV: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CRH: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] IRM: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] JBHT: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] JBL: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] JKHY: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CRWD: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] J: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] JNJ: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] JCI: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] JPM: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CCI: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] KVUE: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] KDP: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] KEY: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] KEYS: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CSX: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] KMB: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] KIM: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] KMI: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] KKR: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CMI: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] KLAC: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] KHC: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] KR: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DUK: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] CVS: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] DD: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] ETN: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] EBAY: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] ECL: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DHR: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] EIX: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] EW: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] ELV: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] EMR: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DRI: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] ETR: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] EOG: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] EPAM: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] EQT: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DDOG: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] EFX: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] EQIX: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] EQR: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] ERIE: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DVA: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] ESS: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] EL: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] EG: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] EVRG: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DECK: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] ES: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] EXC: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] EXE: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] EXPE: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DE: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] EXPD: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] EXR: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] XOM: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] FFIV: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DELL: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] FDS: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] FICO: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] FAST: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] FRT: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] FDX: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DAL: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] FIS: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] FITB: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] FSLR: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] FE: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DVN: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] FISV: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] F: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] FTV: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] FOXA: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DXCM: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] FOX: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] BEN: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] FCX: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] GRMN: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] FANG: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] IT: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] GE: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] GEHC: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] GEV: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DLR: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] GEN: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] GNRC: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] GD: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] GIS: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DG: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] GM: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] GPC: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] GILD: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] GPN: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DLTR: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] GL: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] GDDY: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] GS: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] HAL: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] D: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] HIG: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] HAS: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] HCA: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DOC: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DPZ: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] HSIC: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] HSY: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] HPE: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] HLT: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DASH: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] HOLX: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] HD: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] HON: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] HRL: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DOV: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] HST: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] HWM: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] HPQ: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] LLY: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DOW: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] MET: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] TAP: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] MDLZ: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] MPWR: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DHI: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] MNST: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] MCO: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] MS: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] MOS: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] DTE: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] MSI: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] MSCI: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] NDAQ: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] NTAP: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] BXP: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] NFLX: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] NEM: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] NWSA: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] NWS: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] AMD: Vorfilter nicht bestanden oder Fehler
+08:47:37 [DEBUG] NEE: analyze() Fehler: name 'pre_filter' is not defined
+08:47:37 [DEBUG] NKE: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] NI: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] NDSN: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] ADI: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NSC: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] NTRS: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] NOC: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] NCLH: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] C: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NUE: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] NVR: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] NXPI: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] ON: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] HUBB: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] OXY: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] ORCL: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] ORLY: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] PCAR: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] HUM: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] OMC: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] PLTR: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] PANW: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] PSKY: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] PKG: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] DGX: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] HBAN: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] OTIS: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] PAYX: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] O: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] OKE: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] HII: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ROL: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] SRE: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] TTWO: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] TJX: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] IBM: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] TRMB: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] UNP: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] VRTX: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] WAB: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] IEX: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WMT: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] DIS: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] WEC: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] WM: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] IDXX: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WAT: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] WST: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] WBD: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] WY: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] ITW: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] INCY: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WFC: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] WMB: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] WELL: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] WDC: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] IR: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] PODD: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WSM: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] XEL: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] XYL: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] YUM: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] ZBRA: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] ZBH: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] ZTS: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] WTW: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] WDAY: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] WYNN: analyze() Fehler: name 'pre_filter' is not defined
+08:47:38 [DEBUG] INTC: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] IBKR: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ICE: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] IFF: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] IP: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] INTU: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ISRG: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] IVZ: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] INVH: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] IQV: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] IRM: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] JBHT: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] JBL: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] JKHY: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] J: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] JNJ: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] JCI: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] JPM: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] KVUE: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] KDP: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] KEY: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] KEYS: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] KMB: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] KIM: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] KMI: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] KKR: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] KLAC: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] KHC: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] KR: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] DUK: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] DD: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ETN: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EBAY: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ECL: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EIX: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EW: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ELV: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EMR: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ETR: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EOG: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EPAM: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EQT: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EFX: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EQIX: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EQR: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ERIE: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ESS: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EL: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EG: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EVRG: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ES: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EXC: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EXE: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EXPE: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EXPD: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] EXR: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] XOM: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] FFIV: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] FDS: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] FICO: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] FAST: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] FRT: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] FDX: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] FIS: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] FITB: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] FSLR: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] FE: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] FISV: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] F: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] FTV: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] FOXA: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] FOX: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] BEN: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] FCX: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] GRMN: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] IT: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] GE: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] GEHC: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] GEV: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] GEN: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] GNRC: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] GD: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] GIS: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] GM: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] GPC: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] GILD: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] GPN: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] GL: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] GDDY: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] GS: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] HAL: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] HIG: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] HAS: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] HCA: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] DOC: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] HSIC: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] HSY: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] HPE: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] HLT: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] HOLX: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] HD: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] HON: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] HRL: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] HST: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] HWM: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] HPQ: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] LLY: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] MET: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] TAP: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] MDLZ: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] MPWR: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] MNST: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] MCO: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] MS: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] MOS: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] MSI: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] MSCI: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NDAQ: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NTAP: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NFLX: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NEM: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NWSA: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NWS: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NEE: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NKE: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NI: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NDSN: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NSC: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NTRS: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NOC: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NCLH: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NUE: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NVR: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] NXPI: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ON: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] OXY: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ORCL: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ORLY: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] PCAR: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] OMC: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] PLTR: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] PANW: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] PSKY: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] PKG: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] DGX: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] OTIS: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] PAYX: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] O: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] OKE: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ROL: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] SRE: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] TTWO: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] TJX: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] TRMB: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] UNP: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] VRTX: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WAB: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WMT: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] DIS: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WEC: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WM: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WAT: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WST: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WBD: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WY: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WFC: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WMB: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WELL: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WDC: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WSM: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] XEL: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] XYL: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] YUM: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ZBRA: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ZBH: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] ZTS: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WTW: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WDAY: Vorfilter nicht bestanden oder Fehler
+08:47:38 [DEBUG] WYNN: Vorfilter nicht bestanden oder Fehler
+08:47:38 [WARNING] Keine Ergebnisse nach Vorfilter.
+08:55:13 [INFO] === Screener v5.0 gestartet ===
+08:55:15 [INFO] SPX 20T-Performance: 0.004752597531458998
+08:55:16 [INFO] Ticker geladen: 503, Sektordaten: 503
+08:55:16 [INFO] Download-Start: 503 Ticker, market_open=False, holiday=False
+08:55:16 [INFO] Cache-Hit: 234 Ticker
+08:55:19 [WARNING] Intraday-Future-Fehler: 'NoneType' object is not iterable
+08:55:20 [WARNING] Intraday-Future-Fehler: 'NoneType' object is not iterable
+08:55:20 [WARNING] Intraday-Future-Fehler: 'NoneType' object is not iterable
+08:55:20 [WARNING] Intraday-Future-Fehler: 'NoneType' object is not iterable
+08:55:22 [WARNING] Intraday-Future-Fehler: 'NoneType' object is not iterable
+08:55:24 [WARNING] Intraday-Future-Fehler: 'NoneType' object is not iterable
+08:55:24 [INFO] Intraday geladen: 0
+08:55:24 [INFO] Merge abgeschlossen: 234 Ticker, 0 Intraday-Merged
+08:55:24 [INFO] Analyse-Start: 234 Ticker, adaptiver_modus=False
+08:55:24 [INFO] Vorfilter-Gründe: {}
+08:55:24 [WARNING] Keine Ergebnisse nach Vorfilter.
+08:59:36 [INFO] === Screener v5.0 gestartet ===
+08:59:37 [INFO] SPX 20T-Performance: 0.004752597531458998
+08:59:38 [INFO] Ticker geladen: 503, Sektordaten: 503
+08:59:38 [INFO] Download-Start: 503 Ticker, market_open=False, holiday=False
+08:59:38 [WARNING] Cache verworfen: nur 234 Ticker (Minimum: 402)
+08:59:55 [INFO] Daily geladen: 503
+09:00:09 [INFO] Intraday geladen: 499
+09:00:10 [WARNING] COO: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:10 [WARNING] COST: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:10 [WARNING] DRI: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:10 [WARNING] DELL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:11 [WARNING] D: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:11 [WARNING] DASH: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:11 [WARNING] MMM: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:12 [WARNING] ADI: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:12 [WARNING] ARES: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:12 [WARNING] ATO: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:13 [WARNING] BKNG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:13 [WARNING] CPT: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:13 [WARNING] CDW: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:14 [WARNING] CHTR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:14 [WARNING] CSCO: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:14 [WARNING] HII: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:14 [WARNING] IRM: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:15 [WARNING] KMI: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:15 [WARNING] KHC: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:15 [WARNING] LRCX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:16 [WARNING] MRK: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:16 [WARNING] MU: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:16 [WARNING] TAP: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:17 [WARNING] GILD: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:17 [WARNING] GS: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:17 [WARNING] HAL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:17 [WARNING] HLT: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:17 [WARNING] HON: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:18 [WARNING] EOG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:18 [WARNING] EXPE: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:18 [WARNING] EXR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:18 [WARNING] FFIV: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:18 [WARNING] PH: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:19 [WARNING] PCG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:19 [WARNING] POOL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:19 [WARNING] PWR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:19 [WARNING] RL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:19 [WARNING] RJF: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:20 [WARNING] TMO: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:20 [WARNING] TT: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:20 [WARNING] USB: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:20 [WARNING] UNP: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:20 [WARNING] UAL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:20 [WARNING] UNH: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:20 [WARNING] UHS: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:21 [WARNING] VMC: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:21 [WARNING] DIS: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:21 [WARNING] WBD: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:21 [WARNING] WST: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:21 [WARNING] YUM: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:22 [WARNING] SNDK: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:22 [WARNING] SLB: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:22 [WARNING] SWKS: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:22 [WARNING] SOLV: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:22 [WARNING] TMUS: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:22 [WARNING] TROW: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:23 [WARNING] MNST: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:23 [WARNING] MOS: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:23 [WARNING] MSCI: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:23 [WARNING] NTAP: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:23 [WARNING] NVDA: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:23 [WARNING] NVR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:23 [WARNING] OMC: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:24 [WARNING] PLTR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:24 [WARNING] PSKY: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:00:24 [INFO] Merge abgeschlossen: 503 Ticker, 434 Intraday-Merged
+09:00:24 [INFO] Analyse-Start: 503 Ticker, SPX_PERF_20D=0.004752597531458998, adaptiver_modus=False
+09:00:24 [INFO] Vorfilter-Gründe: {}
+09:00:24 [WARNING] Keine Ergebnisse nach Vorfilter.
+09:10:20 [INFO] === Screener v5.0 gestartet ===
+09:10:22 [INFO] SPX 20T-Performance: 0.004752597531458998
+09:10:23 [INFO] Ticker geladen: 503, Sektordaten: 503
+09:10:23 [INFO] Download-Start: 503 Ticker, market_open=False, holiday=False
+09:10:37 [DEBUG] TRGP: Zu wenig Tageskerzen nach Retry (0)
+09:10:41 [INFO] Daily geladen: 502
+09:10:57 [INFO] Intraday geladen: 486
+09:10:58 [WARNING] ABBV: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:10:58 [WARNING] ALB: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:10:58 [WARNING] AON: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:10:59 [WARNING] ARES: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:10:59 [WARNING] ADSK: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:10:59 [WARNING] BAC: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:01 [WARNING] CPRT: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:01 [WARNING] DLTR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:02 [WARNING] CHRW: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:02 [WARNING] CDNS: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:03 [WARNING] CPB: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:04 [WARNING] CVNA: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:05 [WARNING] CB: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:05 [WARNING] CSCO: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:05 [WARNING] FIX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:06 [WARNING] ECL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:06 [WARNING] EOG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:06 [WARNING] ESS: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:06 [WARNING] EL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:06 [WARNING] ES: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:07 [WARNING] EXR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:07 [WARNING] FAST: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:08 [WARNING] F: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:08 [WARNING] FCX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:08 [WARNING] GEHC: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:08 [WARNING] GEN: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:08 [WARNING] GPN: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:09 [WARNING] PAYX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:10 [WARNING] PEP: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:10 [WARNING] PSX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:10 [WARNING] PNW: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:11 [WARNING] PLD: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:11 [WARNING] PEG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:11 [WARNING] DGX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:12 [WARNING] RTX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:12 [WARNING] O: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:13 [WARNING] LRCX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:13 [WARNING] LII: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:14 [WARNING] LLY: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:14 [WARNING] LYB: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:14 [WARNING] MPC: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:14 [WARNING] MRSH: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:15 [WARNING] MCD: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:15 [WARNING] MET: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:16 [WARNING] TAP: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:16 [WARNING] IDXX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:16 [WARNING] INTC: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:17 [WARNING] INTU: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:17 [WARNING] JKHY: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:17 [WARNING] JPM: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:17 [WARNING] KDP: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:18 [WARNING] SNDK: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:18 [WARNING] STX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:18 [WARNING] SPG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:18 [WARNING] SBUX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:19 [WARNING] WYNN: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:19 [WARNING] XEL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:19 [WARNING] ZBRA: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:19 [WARNING] MPWR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:19 [WARNING] NFLX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:20 [WARNING] OTIS: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:20 [WARNING] TSLA: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:20 [WARNING] TMO: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:21 [WARNING] USB: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:21 [WARNING] VLO: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:21 [WARNING] VRSN: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:21 [WARNING] GWW: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:11:21 [INFO] Merge abgeschlossen: 502 Ticker, 419 Intraday-Merged
+09:11:21 [INFO] Analyse-Start: 502 Ticker, SPX_PERF_20D=0.004752597531458998, adaptiver_modus=False
+09:11:21 [INFO] Vorfilter-Gründe: {}
+09:11:21 [WARNING] Keine Ergebnisse nach Vorfilter.
+09:15:45 [INFO] === Screener v5.0 gestartet ===
+09:15:46 [INFO] SPX 20T-Performance: 0.004752597531458998
+09:15:47 [INFO] Ticker geladen: 503, Sektordaten: 503
+09:15:47 [INFO] Download-Start: 503 Ticker, market_open=False, holiday=False
+09:16:04 [INFO] Daily geladen: 503
+09:16:17 [INFO] Intraday geladen: 491
+09:16:18 [WARNING] ALL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:18 [WARNING] GOOG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:18 [WARNING] AMT: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:18 [WARNING] AWK: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:18 [WARNING] AME: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:19 [WARNING] BALL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:19 [WARNING] BDX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:19 [WARNING] BRO: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:20 [WARNING] CEG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:20 [WARNING] CRWD: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:20 [WARNING] DDOG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:21 [WARNING] FANG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:21 [WARNING] DASH: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:21 [WARNING] CCL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:21 [WARNING] COR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:21 [WARNING] CHTR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:21 [WARNING] CVX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:22 [WARNING] CSCO: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:22 [WARNING] CLX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:22 [WARNING] CMS: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:22 [WARNING] FIX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:22 [WARNING] IEX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:22 [WARNING] IDXX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:22 [WARNING] IFF: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:23 [WARNING] JNJ: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:23 [WARNING] KEY: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:23 [WARNING] KR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:23 [WARNING] LII: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:24 [WARNING] MAR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:24 [WARNING] MGM: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:25 [WARNING] EMR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:25 [WARNING] ETR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:25 [WARNING] EVRG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:25 [WARNING] EXPD: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:25 [WARNING] FICO: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:26 [WARNING] FISV: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:26 [WARNING] FOX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:26 [WARNING] BEN: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:27 [WARNING] HSY: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:27 [WARNING] HRL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:28 [WARNING] ROL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:28 [WARNING] STT: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:28 [WARNING] SMCI: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:29 [WARNING] TFC: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:30 [WARNING] URI: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:30 [WARNING] VLO: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:30 [WARNING] WRB: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:31 [WARNING] PPG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:31 [WARNING] PTC: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:31 [WARNING] PHM: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:31 [WARNING] QCOM: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:31 [WARNING] RF: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:32 [WARNING] WAT: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:32 [WARNING] WFC: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:32 [WARNING] WSM: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:32 [WARNING] WTW: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:32 [WARNING] ZTS: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:32 [WARNING] MDLZ: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:32 [WARNING] NFLX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:33 [WARNING] NKE: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:33 [WARNING] NSC: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:33 [WARNING] NTRS: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:33 [WARNING] NUE: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:33 [WARNING] NVDA: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:33 [WARNING] ON: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:16:33 [INFO] Merge abgeschlossen: 503 Ticker, 426 Intraday-Merged
+09:16:33 [INFO] Analyse-Start: 503 Ticker, SPX_PERF_20D=0.004752597531458998, adaptiver_modus=False
+09:16:35 [INFO] Vorfilter-Gründe: {'Zu weit unter MA60': 32, 'Negativer 5T-Trend': 75, 'Volumen zu niedrig': 27, 'Negativer 20T-Trend': 39, 'Close-Wert nicht lesbar': 66, 'Failed Breakout: Cross vor 5T, seitdem -3.4%': 1, 'Failed Breakout: Cross vor 5T, seitdem -3.6%': 1}
+09:16:35 [DEBUG] ACN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:36 [DEBUG] ADBE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:36 [DEBUG] ABNB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:36 [DEBUG] LNT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:36 [DEBUG] AMCR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:36 [DEBUG] AXP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:36 [DEBUG] AMGN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:36 [DEBUG] AEP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:36 [DEBUG] ADI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:36 [DEBUG] ABBV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:36 [DEBUG] AMD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:36 [DEBUG] AMAT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:36 [DEBUG] AES: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] ALB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] A: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] ARE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] ALLE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] MO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] AEE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] APH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] AIG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] APO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] AAPL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] APTV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] AIZ: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] AZO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] BSX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] BA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] BMY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:37 [DEBUG] BX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] APP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] BXP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] ACGL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] ADM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] AJG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] T: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] AVB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] ADSK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] AXON: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] BKR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] BIIB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] BBY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] BAC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] XYZ: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] BK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] AVGO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] DELL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] CAG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] COP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:38 [DEBUG] DOV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] COO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] GLW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] CPRT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] STZ: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] CPAY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] COST: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] CSGP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] CTRA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] DHR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] CVS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] CMI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] DXCM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] CHRW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] DTE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] CPT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] DOW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] CF: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:39 [DEBUG] CDNS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CPB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CARR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CVNA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CAT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CBOE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CDW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CBRE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CNP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] SCHW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CRL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CIEN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CHD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CFG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CINF: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CTSH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CMCSA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:40 [DEBUG] CL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] HUM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] COIN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] IBM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] ITW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] HBAN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] IBKR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] PODD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] ICE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] IP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] INTU: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] IVZ: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] ISRG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] IQV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] JBL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] INVH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] IRM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:41 [DEBUG] JKHY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] KLAC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] KMB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] J: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] KHC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] LW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] LH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] LDOS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] LEN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] LLY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] LOW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] MTB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] LYB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] MPC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] MRSH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] MLM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] MAS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] MTCH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:42 [DEBUG] MDT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] META: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] MSFT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] ETN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] EBAY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] EPAM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] EIX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] EOG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] EFX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] EQIX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] EQR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] ESS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] ERIE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] EL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] EG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] EXC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] EXR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] XOM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:43 [DEBUG] EXE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:44 [DEBUG] FDS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:44 [DEBUG] FRT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:44 [DEBUG] FAST: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:44 [DEBUG] FIS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:44 [DEBUG] FFIV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:44 [DEBUG] F: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:44 [DEBUG] FITB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:44 [DEBUG] GRMN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:44 [DEBUG] IT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:44 [DEBUG] GEHC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:44 [DEBUG] GNRC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:44 [DEBUG] GEV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:44 [DEBUG] GPC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:44 [DEBUG] GM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:44 [DEBUG] GILD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:44 [DEBUG] GD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:45 [DEBUG] GL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:45 [DEBUG] GDDY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:45 [DEBUG] HPE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:45 [DEBUG] HIG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:45 [DEBUG] HLT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:45 [DEBUG] DOC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:45 [DEBUG] GS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:45 [DEBUG] HOLX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:45 [DEBUG] ROP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:45 [DEBUG] HPQ: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:45 [DEBUG] RCL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:45 [DEBUG] SPGI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:45 [DEBUG] SBAC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] CRM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] SRE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] SLB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] NOW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] SPG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] SWKS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] SNA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] SOLV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] SO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] SJM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] SBUX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] STLD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] SYF: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] SYK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] SNPS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] TMUS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] TROW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] TTWO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:46 [DEBUG] TPR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] TRGP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] TSLA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] TXN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] TPL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] TJX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] TDG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] TXT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] TRV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] UDR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] ULTA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] UBER: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] UNP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] UPS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] UNH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] VLTO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] VTR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] VRSK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] VRSN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:47 [DEBUG] VZ: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] VRTX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] VTRS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] VMC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] VST: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] GWW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] PNR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] PH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] PAYX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] PM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] PPL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] PNW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] PGR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] PFG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] PLD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] PRU: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] PEG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] PWR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:48 [DEBUG] DGX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] PSA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] Q: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] RL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] RTX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] REGN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] HOOD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] ROK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] DIS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] WMT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] WBD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] WM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] WDAY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] WDC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] WYNN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] XYL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] ZBRA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] YUM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] MPWR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] MNST: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:49 [DEBUG] MOS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] MSCI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] NTAP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] NEM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] MSI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] NWS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] NEE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] NDSN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] NOC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] ORLY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] OXY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] ODFL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] OMC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] ORCL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] OKE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] OTIS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] PANW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:50 [DEBUG] PCAR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:51 [DEBUG] PLTR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:16:51 [INFO] Analyse abgeschlossen: 262 Aktien
+09:16:51 [INFO] CSV gespeichert: breakout_results.csv
+09:16:51 [INFO] HTML gespeichert: breakout_report.html
+09:16:51 [INFO] === Screener v5.0 abgeschlossen ===
+09:25:33 [INFO] === Screener v5.0 gestartet ===
+09:25:35 [INFO] SPX 20T-Performance: 0.004752597531458998
+09:25:36 [INFO] Ticker geladen: 503, Sektordaten: 503
+09:25:36 [INFO] Download-Start: 503 Ticker, market_open=False, holiday=False
+09:25:36 [INFO] Cache-Hit: 503 Ticker
+09:25:51 [INFO] Intraday geladen: 503
+09:25:52 [WARNING] ALL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:52 [WARNING] GOOG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:52 [WARNING] AMT: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:52 [WARNING] AWK: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:52 [WARNING] AME: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:52 [WARNING] BALL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:53 [WARNING] BDX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:53 [WARNING] BRO: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:53 [WARNING] CEG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:53 [WARNING] CRWD: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:53 [WARNING] DDOG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:54 [WARNING] FANG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:54 [WARNING] DASH: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:54 [WARNING] CCL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:54 [WARNING] COR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:54 [WARNING] CHTR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:54 [WARNING] CVX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:54 [WARNING] CSCO: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:54 [WARNING] CLX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:54 [WARNING] CMS: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:54 [WARNING] FIX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:55 [WARNING] IEX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:55 [WARNING] IDXX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:55 [WARNING] IFF: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:55 [WARNING] JNJ: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:55 [WARNING] KEY: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:55 [WARNING] KR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:55 [WARNING] LII: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:56 [WARNING] MAR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:56 [WARNING] MGM: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:56 [WARNING] TAP: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:56 [WARNING] EMR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:56 [WARNING] ETR: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:57 [WARNING] EVRG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:57 [WARNING] EXPD: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:57 [WARNING] FICO: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:57 [WARNING] FISV: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:57 [WARNING] FOX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:57 [WARNING] BEN: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:58 [WARNING] HSY: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:58 [WARNING] HRL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:58 [WARNING] ROL: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:58 [WARNING] STT: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:59 [WARNING] SMCI: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:25:59 [WARNING] TFC: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:00 [WARNING] URI: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:00 [WARNING] VLO: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:00 [WARNING] WRB: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:00 [WARNING] PPG: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:00 [WARNING] PTC: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:01 [WARNING] PHM: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:01 [WARNING] QCOM: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:01 [WARNING] RF: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:01 [WARNING] WAT: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:01 [WARNING] WFC: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:01 [WARNING] WSM: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:01 [WARNING] WTW: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:01 [WARNING] ZTS: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:01 [WARNING] MDLZ: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:02 [WARNING] NFLX: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:02 [WARNING] NKE: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:02 [WARNING] NSC: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:02 [WARNING] NTRS: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:02 [WARNING] NUE: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:02 [WARNING] NVDA: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:02 [WARNING] ON: Merge-Fehler: Reindexing only valid with uniquely valued Index objects
+09:26:02 [INFO] Merge abgeschlossen: 503 Ticker, 437 Intraday-Merged
+09:26:02 [INFO] Analyse-Start: 503 Ticker, SPX_PERF_20D=0.004752597531458998, adaptiver_modus=False
+09:26:04 [INFO] Vorfilter-Gründe: {'Zu weit unter MA60': 191, 'Negativer 5T-Trend': 51, 'Negativer 20T-Trend': 9, 'Close-Wert nicht lesbar': 66, 'Failed Breakout: Cross vor 5T, seitdem -3.7%': 1, 'Failed Breakout: Cross vor 5T, seitdem -5.0%': 1, 'Failed Breakout: Cross vor 5T, seitdem -4.4%': 2, 'Failed Breakout: Cross vor 5T, seitdem -3.8%': 2, 'Failed Breakout: Cross vor 5T, seitdem -3.6%': 2}
+09:26:04 [DEBUG] AMCR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:04 [DEBUG] LNT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:04 [DEBUG] ADI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:04 [DEBUG] ADBE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:05 [DEBUG] ABBV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:05 [DEBUG] AES: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:05 [DEBUG] AMD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:05 [DEBUG] AFL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:05 [DEBUG] AKAM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:05 [DEBUG] MO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:05 [DEBUG] APO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:05 [DEBUG] AMP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:05 [DEBUG] ATO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:05 [DEBUG] BLK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:05 [DEBUG] BMY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:05 [DEBUG] ANET: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:05 [DEBUG] BSX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:05 [DEBUG] ADSK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] AVB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] AXON: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] AVY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] XYZ: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] BKNG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] BR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] CAG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] BG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] CSX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] D: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] DELL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] DOV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] CCI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] CMI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] DHR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] DVN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:06 [DEBUG] DRI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:07 [DEBUG] DHI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:07 [DEBUG] DTE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:07 [DEBUG] CF: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:07 [DEBUG] CNC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:07 [DEBUG] COF: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:07 [DEBUG] CVNA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:07 [DEBUG] CMG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:07 [DEBUG] CBOE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:07 [DEBUG] CIEN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:07 [DEBUG] KO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:07 [DEBUG] CL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:07 [DEBUG] COIN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:07 [DEBUG] IBM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:07 [DEBUG] CMCSA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] INTC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] ITW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] INCY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] INTU: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] INVH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] ISRG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] J: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] JCI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] IQV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] KKR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] LHX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] LH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] LDOS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] LIN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] LYB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] MTB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] MCD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] MPC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] MDT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:08 [DEBUG] MRK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:09 [DEBUG] MU: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:09 [DEBUG] MCHP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:09 [DEBUG] MOH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:09 [DEBUG] DUK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:09 [DEBUG] DD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:09 [DEBUG] EBAY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:09 [DEBUG] ELV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:09 [DEBUG] ECL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:09 [DEBUG] EME: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:09 [DEBUG] EPAM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:09 [DEBUG] EQIX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:09 [DEBUG] ESS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:09 [DEBUG] EL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:09 [DEBUG] EXPE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:09 [DEBUG] EXE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] EXR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] XOM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] FFIV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] FAST: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] FRT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] FDX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] FITB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] HST: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] GRMN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] GEHC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] GD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] GIS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] GPC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] GPN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] DOC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] HPE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] HD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] HPQ: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] HCA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] SLB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:10 [DEBUG] SPGI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] SRE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] SW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] SNA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] SPG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] SO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] STLD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] LUV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] SYK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] SYF: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] SNPS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] TROW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] TRGP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] TPR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] TEL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] TDY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] TER: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] TXN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] TPL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] TKO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:11 [DEBUG] TTD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] TT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] TSCO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] TYL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] UAL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] UHS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] VTR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] VLTO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] VRSK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] VRTX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] VTRS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] VICI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] V: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] PH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] PAYC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] PYPL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] PEP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] PCG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] PFG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] PGR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] PLD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] PRU: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] PEG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] PSA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:12 [DEBUG] PM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] PWR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] DGX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] REG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] REGN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] RSG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] HOOD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] Q: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] WST: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] WMT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] ROK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] WBD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] WM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] WDAY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] WYNN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] XEL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] XYL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] MOS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] MPWR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:13 [DEBUG] NEM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:14 [DEBUG] NWSA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:14 [DEBUG] NEE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:14 [DEBUG] NI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:14 [DEBUG] NCLH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:14 [DEBUG] NOC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:14 [DEBUG] NXPI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:14 [DEBUG] NDSN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:14 [DEBUG] ORLY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:14 [DEBUG] PCAR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:14 [DEBUG] PLTR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:26:14 [INFO] Analyse abgeschlossen: 178 Aktien
+09:26:14 [INFO] CSV gespeichert: breakout_results.csv
+09:26:14 [INFO] HTML gespeichert: breakout_report.html
+09:26:14 [INFO] === Screener v5.0 abgeschlossen ===
+09:34:56 [INFO] === Screener v5.0 gestartet ===
+09:34:58 [INFO] SPX 20T-Performance: 0.004752597531458998
+09:34:59 [INFO] Ticker geladen: 503, Sektordaten: 503
+09:34:59 [INFO] Download-Start: 503 Ticker, market_open=False, holiday=False
+09:34:59 [INFO] Cache-Hit: 503 Ticker
+09:34:59 [INFO] Merge abgeschlossen: 503 Ticker, 0 Intraday-Merged
+09:34:59 [INFO] Analyse-Start: 503 Ticker, SPX_PERF_20D=0.004752597531458998, adaptiver_modus=False
+09:34:59 [INFO] Vorfilter-Gründe: {'Negativer 5T-Trend': 65, 'Zu weit unter MA60': 16, 'Negativer 20T-Trend': 52, 'Close-Wert nicht lesbar': 66, 'Failed Breakout: Cross vor 4T, seitdem -3.3%': 1, 'Failed Breakout: Cross vor 5T, seitdem -3.9%': 1}
+09:35:00 [DEBUG] LNT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:00 [DEBUG] ADBE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:00 [DEBUG] ABNB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:00 [DEBUG] APD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:00 [DEBUG] AEP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:00 [DEBUG] ABT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:00 [DEBUG] AES: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:00 [DEBUG] ABBV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:00 [DEBUG] AFL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:00 [DEBUG] A: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:00 [DEBUG] ARE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:00 [DEBUG] AKAM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:00 [DEBUG] ALGN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:00 [DEBUG] ALLE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:00 [DEBUG] MO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:00 [DEBUG] GOOGL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] AMZN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] AMP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] AIG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] AON: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] APA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] APO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] ATO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] ADP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] AIZ: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] AZO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] BLK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] BMY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] ACGL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] ADM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] T: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] AJG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] ANET: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] ADSK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] AVB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:01 [DEBUG] AXON: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] BKR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] BAC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] BAX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] BBY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] BIIB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] BK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] TECH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] BKNG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] BR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] BLDR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] AVGO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] BG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] CAG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] CSX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] CTVA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] DELL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] D: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] DOV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] ED: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] STZ: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:02 [DEBUG] CPRT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] CSGP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] CPAY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] CTRA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] CCI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] CMI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] DHR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] CVS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] DRI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] DVA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] DECK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] DE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] DAL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] DVN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] DLR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] DG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] DPZ: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] DHI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] DTE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] CHRW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] CPT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:03 [DEBUG] CNC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] CF: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] CME: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] COF: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] CBOE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] CBRE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] CPB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] CDW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] CRL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] CNP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] SCHW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] CMG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] CB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] CI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] CIEN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] CINF: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] C: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] CFG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] CTSH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:04 [DEBUG] CMCSA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] HUM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] IBM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] HII: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] HUBB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] ITW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] INCY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] PODD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] INTC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] IBKR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] ICE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] INTU: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] ISRG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] IVZ: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] INVH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] IQV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] JBHT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] JBL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] JKHY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] JCI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] KVUE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:05 [DEBUG] KDP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] KEYS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] JPM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] KMB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] KIM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] KLAC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] KHC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] LHX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] LRCX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] LVS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] LEN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] LLY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] LIN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] LYV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] LMT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] L: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] LOW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] LULU: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] LYB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] MTB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] MPC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:06 [DEBUG] MRSH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] MAS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] MA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] MTCH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] MCK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] MDT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] MET: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] MTD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] MCHP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] MU: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] MRK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] MRNA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] DD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] MOH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] ECL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] EIX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] EW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] EME: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] EOG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:07 [DEBUG] EQT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:08 [DEBUG] EQIX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:08 [DEBUG] EBAY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:08 [DEBUG] EQR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:08 [DEBUG] ERIE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:08 [DEBUG] ESS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:08 [DEBUG] ES: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:08 [DEBUG] EG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:08 [DEBUG] EXE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:08 [DEBUG] EXR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:08 [DEBUG] FFIV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:08 [DEBUG] FDS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:08 [DEBUG] FDX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:08 [DEBUG] FAST: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:08 [DEBUG] EL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:08 [DEBUG] FRT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:08 [DEBUG] FITB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] HST: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] FE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] FSLR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] F: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] FTNT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] FCX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] FOXA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] GRMN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] GE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] GEHC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] GEN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] GNRC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] GD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] GIS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] GM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] GILD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] GEV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] GPN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] GL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] GS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:09 [DEBUG] HAL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] HIG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] HAS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] HCA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] HSIC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] HPE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] HLT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] HD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] HON: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] HPQ: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] HWM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] ROP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] ROST: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] SPGI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] CRM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] SBAC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] STX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] SHW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] SRE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] SWKS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] SJM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:10 [DEBUG] SOLV: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] STLD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] SYY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] TMUS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] SYK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] TTWO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] TPR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] TRGP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] TEL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] TGT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] TDY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] TER: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] TSLA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] TXN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] TXT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] TKO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] TSCO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:11 [DEBUG] TMO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] TSN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] TDG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] TRMB: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] TT: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] UDR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] UNH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] UPS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] UHS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] VTR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] VLTO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] VRSK: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] VZ: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] VRTX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] VICI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] VTRS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] VST: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] VMC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] PH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] PAYC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] PAYX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:12 [DEBUG] PNR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:13 [DEBUG] PFE: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:13 [DEBUG] PCG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:13 [DEBUG] PM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:13 [DEBUG] PNW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:13 [DEBUG] PFG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:13 [DEBUG] PG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:13 [DEBUG] POOL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:13 [DEBUG] PEG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:13 [DEBUG] PSA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:13 [DEBUG] PWR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:13 [DEBUG] DGX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:13 [DEBUG] Q: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:13 [DEBUG] O: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:13 [DEBUG] RL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:13 [DEBUG] RTX: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:14 [DEBUG] RSG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:14 [DEBUG] RVTY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:14 [DEBUG] REGN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:14 [DEBUG] HOOD: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:14 [DEBUG] WST: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:14 [DEBUG] WEC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:14 [DEBUG] WELL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:14 [DEBUG] WDC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:14 [DEBUG] WYNN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:14 [DEBUG] XYL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:14 [DEBUG] XEL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:14 [DEBUG] YUM: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:14 [DEBUG] ZBRA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:14 [DEBUG] MCO: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:14 [DEBUG] ZBH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:15 [DEBUG] MSCI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:15 [DEBUG] NTAP: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:15 [DEBUG] MOS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:15 [DEBUG] NWSA: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:15 [DEBUG] NDSN: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:15 [DEBUG] NOC: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:15 [DEBUG] NCLH: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:15 [DEBUG] NRG: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:15 [DEBUG] NVR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:15 [DEBUG] NXPI: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:15 [DEBUG] ORLY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:15 [DEBUG] ODFL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:16 [DEBUG] OTIS: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:16 [DEBUG] PCAR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:16 [DEBUG] ORCL: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:16 [DEBUG] PGR: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:16 [DEBUG] PANW: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:16 [DEBUG] PSKY: Earnings-Abruf fehlgeschlagen: 'dict' object has no attribute 'empty'
+09:35:16 [INFO] Analyse abgeschlossen: 302 Aktien
+09:35:16 [INFO] CSV gespeichert: breakout_results.csv
+09:35:16 [INFO] HTML gespeichert: breakout_report.html
+09:35:16 [INFO] === Screener v5.0 abgeschlossen ===

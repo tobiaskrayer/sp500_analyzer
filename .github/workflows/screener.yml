@@ -1,0 +1,57 @@
+name: SP500 Breakout Screener
+
+on:
+  schedule:
+    # Runs every hour Mon–Fri between 13:00–22:00 UTC (= 9am–6pm ET)
+    - cron: '0 13-22 * * 1-5'
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  run-screener:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install yfinance pandas numpy
+
+      - name: Run screener
+        run: |
+          mkdir -p docs
+          python advanced_breakout_screener_sp500_v3_4.py
+        env:
+          PYTHONIOENCODING: utf-8
+
+      - name: Copy output to docs/
+        run: |
+          # The script writes sp500_breakout_dashboard.html — copy to docs/index.html
+          if [ -f sp500_breakout_dashboard.html ]; then
+            cp sp500_breakout_dashboard.html docs/index.html
+          fi
+          # Also copy the CSV if generated
+          if [ -f sp500_breakout_results.csv ]; then
+            cp sp500_breakout_results.csv docs/sp500_breakout_results.csv
+          fi
+
+      - name: Commit and push results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          # Also persist the score history cache so smoothing works across runs
+          git add .score_history.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "chore: update screener dashboard [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
