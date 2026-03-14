@@ -2529,6 +2529,7 @@ def build_html(df: pd.DataFrame, spx: dict = None, fgi: dict = None,
 
   /* Heatmap glow for score rows (Upgrade 4) */
   .data-row{{animation:fadeUp .3s ease both;position:relative}}
+  .data-row td{{position:relative;z-index:1}}
   .data-row::after{{content:'';position:absolute;right:0;top:0;bottom:0;width:0;
     pointer-events:none;border-radius:0 0 0 0;opacity:0.06;transition:width .3s}}
   .data-row.heat-fire::after{{width:100%;background:linear-gradient(90deg,transparent 50%,var(--green))}}
