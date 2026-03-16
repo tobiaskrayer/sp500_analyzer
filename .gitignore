@@ -1,0 +1,11 @@
+# Generated script output (handled via docs/ copy)
+breakout_report.html
+breakout_results.csv
+
+# Cache directories
+.screener_cache/
+__pycache__/
+*.pyc
+
+# Local score history (committed separately when changed)
+# .score_history.json  ← intentionally NOT ignored (needed for smoothing)
