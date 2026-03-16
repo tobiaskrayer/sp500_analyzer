@@ -1,0 +1,2 @@
+git pull --rebase origin sp500_analyzer
+git push origin sp500_analyzer
