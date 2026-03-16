@@ -49,6 +49,7 @@ jobs:
           git add docs/
           git add .score_history.json 2>/dev/null || true
           git diff --cached --quiet || git commit -m "chore: update screener dashboard [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git checkout -- .
           git fetch origin sp500_analyzer
           git rebase origin/sp500_analyzer
           git push
